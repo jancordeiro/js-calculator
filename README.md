@@ -2,3 +2,7 @@
 A simple calculator in JavaScript
 
 [TRY IT HERE](http://jcstudio.esy.es/calculator/)
+
+## Screenshot
+
+![Screenshot](screenshot.jpeg)
